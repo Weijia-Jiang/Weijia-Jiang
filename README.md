@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://steamcommunity.com/id/mengli/">Steam</a> •
   <a href="http://dotamax.com/player/detail/158432419/">Dota2</a> •
-  <a href="https://github.com/Weijia-Jiang">GitHub</a> •
   <a href="https://github.com/MMMMMMLi">Another GitHub</a>
 </p>
 
